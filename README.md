@@ -1,1 +1,1 @@
-# NewCI
+# Github Action. Continuous Integration
